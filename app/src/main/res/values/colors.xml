@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimary1">#FF5722</color>
+    <color name="colorPrimaryDark2">#DF6635</color>
+    <color name="colorAccent3">#D81B60</color>
+    <color name="black">#000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="edititin">#39796b</color>
+    <color name="edititup">#A9d440</color>
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradEnd">#23A7D8</color>
+    <color name="overlaybackground">#7f333639</color>
+
+
+    <color name="colorsuccess">#4BB453</color>
+    <color name="colorwarning">#FFCC00</color>
+    <color name="colornewtral">#434343</color>
+    <color name="colorerror">#CC0000</color>
+    <color name="textprimery">#212121</color>
+
+    <color name="colorDarkBrown">#70390c</color>
+    <color name="four">#C1B59D</color>
+    <color name="colorDarkPink">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorOrange">#ffae1a</color>
+    <color name="colorLightBlackt">#e5e5e5</color>
+    <color name="colorMidiumBlack">#8c8c8c</color>
+    <color name="colorBrown">#9c6130</color>
+    <color name="colorLightRed">#ff5050</color>
+    <color name="colorRed">#ed0a0e</color>
+    <color name="colorLightBlue">#96f2ec</color>
+    <color name="colorBlack">#080808</color>
+    <color name="colorLightPink">#f3eeacef</color>
+    <color name="colorDarkBlue">#060b9c</color>
+    <color name="colorMidiumBlue">#0c4dc6</color>
+    <color name="colorBlue">#f32376dc</color>
+    <color name="colorSkyBlue">#cae1ff</color>
+    <color name="colorLightGree">#F5AFF568</color>
+    <color name="colorGreen">#16f512</color>
+    <color name="colorDarkGreen">#057805</color>
+    <color name="colorDarkYellow">#d6be0c</color>
+    <color name="colorYellow">#f7f312</color>
+    <color name="colorPurple">#9f10f2</color>
+</resources>
